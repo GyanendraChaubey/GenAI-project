@@ -162,7 +162,3 @@ Feel free to:
 - Open issues for bugs or enhancement requests
 - Submit pull requests with improvements
 - Share your experimental results
-
-=======
-# GenAI-project
->>>>>>> 74962f9336073e2a49e90ad16b601ae40b5f6e1c
